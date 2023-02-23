@@ -20,7 +20,7 @@ Route::get('/', function () {
 
 //
 Route::get('/home', function () {
-    return 'Hello World';
+    return 'Hello World!';
 });
 
 
