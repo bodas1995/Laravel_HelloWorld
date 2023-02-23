@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 
 //
-Route::get('/HelloWorld', function () {
+Route::get('/home', function () {
     return 'Hello World';
 });
 
