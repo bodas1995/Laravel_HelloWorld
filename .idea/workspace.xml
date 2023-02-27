@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a328eef3-fac8-49bb-a9a1-6eb1162d4266" name="Changes" comment="NEWFile" />
+    <list default="true" id="a328eef3-fac8-49bb-a9a1-6eb1162d4266" name="Changes" comment="NEWFile2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/PostsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/PostsTableSeeder.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +172,7 @@
       <workItem from="1677136180151" duration="7373000" />
       <workItem from="1677441918343" duration="1428000" />
       <workItem from="1677447104384" duration="2886000" />
-      <workItem from="1677520745885" duration="2761000" />
+      <workItem from="1677520745885" duration="3109000" />
     </task>
     <task id="LOCAL-00001" summary="NEW">
       <created>1677154087815</created>
@@ -217,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677524878856</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="NEWFile">
+      <created>1677524951137</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677524951137</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +252,7 @@
     <MESSAGE value="NEW file" />
     <MESSAGE value="NEWRoutes" />
     <MESSAGE value="NEWFile" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEWFile" />
+    <MESSAGE value="NEWFile2" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEWFile2" />
   </component>
 </project>

@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use App\Models\User;
+use Illuminate\Support\Str;
 
 class PostsTableSeeder extends Seeder
 {
@@ -18,6 +19,7 @@ class PostsTableSeeder extends Seeder
         $users = User::all();
         foreach($users as $user) {
             $user->posts()->create(['text' => Str::random(100)
+
             ]);
         }
     }
